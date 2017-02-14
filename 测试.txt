@@ -1,0 +1,25 @@
+1、	git init
+	git config --global user.name
+	git config --global user.email
+
+2、git commit
+
+3、文件在本地进行过修改，与暂存区存在差异
+
+4、git add 1.txt 
+	git commit
+
+5、git status
+
+6、git log
+
+7、git reset --hard id
+
+8、touch ../1.txt
+
+9、rm -rf a
+
+10、cat 1.txt
+
+11、
+12、
